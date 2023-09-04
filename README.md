@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Detail as ...]([https://](https://github.com/kerberos0519/subject)
+
+
+[Detail as ...](https://github.com/kerberos0519/subject)
