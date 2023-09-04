@@ -1,19 +1,28 @@
-### Hi there 👋
+# Portfolio-Dev.Hwangje
 
-<!--
-**kerberos0519/kerberos0519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 나황제  
 
-Here are some ideas to get you started:
+### [👨‍💻 Notion 포트폴리오](https://0326.notion.site/ver0-1-e646e86ba9d0440683142ed21132b2eb?pvs=4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Developer
+> Java, Python, MySQL
 
+<br/>
 
-[Detail as ...](https://github.com/kerberos0519/subject)
+**1996.03.26**  
+▶️ **portfolio**&nbsp;&nbsp;&nbsp;[notion]()  
+▶️ **email**&nbsp;&nbsp;&nbsp;na03266@naver.com  
+▶️ **github**&nbsp;&nbsp;&nbsp;http://github.com/NaHwangje  
+▶️ **blog**&nbsp;&nbsp;&nbsp;https://blog.naver.com/na03266
+
+<br/>
+
+> 고통을 즐기는 개발자
+
+> 빈 틈을 찾아서 채워나가는 개발자
+
+> 더 효율적인 것, 더 편한 것을 위해 고민하는 개발자
+
+<br/>
+
+[Show Details...](https://github.com/kerberos0519/working)  
