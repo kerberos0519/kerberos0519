@@ -1,15 +1,15 @@
-# Portfolio-Dev.Hwangje
+# Portfolio-Dev.HyunJun
 
-## 나황제  
+## 정현준  
 
 ### [👨‍💻 Notion 포트폴리오](https://0326.notion.site/ver0-1-e646e86ba9d0440683142ed21132b2eb?pvs=4)
 
 #### Developer
-> Java, Python, MySQL
+> Java, Python
 
 <br/>
 
-**1996.03.26**  
+**1985.05.19**  
 ▶️ **portfolio**&nbsp;&nbsp;&nbsp;[notion]()  
 ▶️ **email**&nbsp;&nbsp;&nbsp;na03266@naver.com  
 ▶️ **github**&nbsp;&nbsp;&nbsp;http://github.com/NaHwangje  
