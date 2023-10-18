@@ -2,7 +2,6 @@
 
 ## 정현준  
 
-### [👨‍💻 Notion 포트폴리오](https://0326.notion.site/ver0-1-e646e86ba9d0440683142ed21132b2eb?pvs=4)
 
 #### Developer
 > Java, Python
